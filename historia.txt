@@ -1,3 +1,11 @@
+<<<<<<< HEAD
 Esta es una simple historia del archivo historia
 
 quitando las boludeces del archivo este.
+=======
+Este es la historia de Octavio Villavicencio (KEGOVC)
+
+KEGOVC tine 25 años y nacio en GDL 
+
+Mañana hablaremos de batman
+>>>>>>> 5345968cdb01e12d187d7ef3623a0b922079d191
